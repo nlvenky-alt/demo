@@ -1,1 +1,1 @@
-print("CHecking Python Installation")
+print("CHecking Python Installation  : Success")
